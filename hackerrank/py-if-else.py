@@ -1,6 +1,7 @@
 """
 https://www.hackerrank.com/contests/linguagens-de-programacao-para-ciencia-de-dados/challenges/py-if-else
 """
+
 n = int(input("Digite um número inteiro:\n"))
 if 2 <= n <= 5 and n % 2 == 0:
     print("Not Weird")
