@@ -4,4 +4,4 @@ https://www.hackerrank.com/contests/linguagens-de-programacao-para-ciencia-de-da
 
 
 def print_full_name(a, b):
-    print(f"Hello {a} {b}! You just delved into python.")
+    print(f'Hello {a} {b}! You just delved into python.')

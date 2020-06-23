@@ -2,7 +2,7 @@
 https://www.hackerrank.com/contests/linguagens-de-programacao-para-ciencia-de-dados/challenges/write-a-function
 """
 
-y = int(input("Digite um ano com 4 digitos.\n"))
+y = int(input('Digite um ano com 4 digitos.\n'))
 
 
 def is_leap(year):
